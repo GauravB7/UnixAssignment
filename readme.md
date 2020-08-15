@@ -1,3 +1,4 @@
 Guessing game using bash
-Fri Aug 14 21:18:39 IST 2020
-22
+date
+Guessing game using bash
+Sat Aug 15 13:23:00 IST 2020
